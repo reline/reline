@@ -1,5 +1,5 @@
 ### Hey, I'm Nathan
-- I'm a full time software developer at [General Motors](GM)
+- I'm a full time software developer at [General Motors][GM]
 - I'm primarily an Android Developer but also work on web APIs from time to time
 - I'm looking to learn iOS and C/C++ development
 - I have a strong interest in linguistics, particularly Japanese
