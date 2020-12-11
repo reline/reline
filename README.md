@@ -1,7 +1,6 @@
 ### Hey, I'm Nathan
 - I'm a full time software developer at [General Motors][GM]
-- I'm primarily an Android Developer but also work on web APIs from time to time
-- I'm looking to learn iOS and C/C++ development
+- I'm primarily an Android Developer but enjoy anything mobile related
 - I have a strong interest in linguistics, particularly Japanese
 - I'm a car enthusiast 🏎️💨
 
@@ -10,11 +9,9 @@
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-<img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-<img align="left" alt="Spring-Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
 
 <br/>
 
