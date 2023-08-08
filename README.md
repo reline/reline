@@ -1,8 +1,7 @@
 ### Hey, I'm Nathan
 - I'm a full time software developer at [General Motors][GM]
-- I'm primarily an Android Developer but enjoy anything mobile related
-- I have a strong interest in linguistics, particularly Japanese
-- I'm a car enthusiast 🏎️💨
+- Mobile development is my forte, but I also dabble with WASM and embedded systems in my free time
+- Car enthusiast 🏎️💨
 
 ### Languages & Tools
 
