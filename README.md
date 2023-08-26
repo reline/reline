@@ -14,11 +14,4 @@
 
 <br/>
 
-### Let's connect
-
-[<img align="left" alt="nathanreline | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nathanreline | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 [GM]: https://github.com/generalmotors
-[linkedin]: https://www.linkedin.com/in/nathanreline/
-[instagram]: https://instagram.com/nathanreline
