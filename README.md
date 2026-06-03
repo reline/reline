@@ -1,3 +1,3 @@
 ### Hey, I'm Nathan
 
-I write software that is useful for myself (and sometimes others) with technology I think is cool. Usually I'm messing with the newest shiny tool that catches my eye, but my recent obsession is anything and everything embedded.
+I am a climate activist who writes software that is useful for myself (and sometimes others) with privacy in mind. Resources are finite, and your data belongs to you.
